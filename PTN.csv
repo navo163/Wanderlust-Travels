@@ -1,0 +1,567 @@
+,Tourist Spots,Latitude,Longitude,Location,Type
+0,Darjeeling,27.05,88.26666666666667,Darjeeling,
+1,Darjeeling Himalayan Railway (Toy Train),26.68,88.46000000000001,New Jalpaiguri to Darjeeling,
+2,Morgan House,27.04527777777778,88.46083333333334,Kalimpong,
+3,Cooch Behar Palace,26.327022222222222,89.43645277777779,Cooch Behar,
+5,Jaldapara National Park,26.690833333333334,89.27638888888889,Alipurduar district,
+6,Gorumara National Park,26.7,88.8,Jalpaiguri district,
+7,Hazarduari Palace,24.18638888888889,88.26861111111111,Murshidabad district (Murshidabad),
+8,Nizamat Imambara,24.188333333333333,88.26861111111111,Murshidabad district,
+9,Katra Mosque,24.184722222222224,88.28805555555556,Murshidabad district,
+10,Adina Deer Park,25.140555555555554,88.17277777777778,Maldah district,
+11,Adina Mosque,25.15222222222222,88.16472222222222,Maldah district,
+12,Gaur,24.866666666666667,88.13333333333334,Maldah,
+13,Bangarh,25.412499999999998,88.53055555555555,Gangarampur,
+14,Shantiniketan,23.683333333333334,87.68333333333334,Birbhum,
+17,The Great Banyan Tree,22.560833333333335,88.28666666666666,Howrah (Shibpur),
+18,Howrah Bridge,22.584999999999997,88.34694444444445,Howrah to Kolkata,
+19,B. B. D. Bagh,22.571944444444444,88.34888888888888,Kolkata,
+20,Dakshineswar Kali Temple,22.654999999999998,88.35777777777777,North 24 Parganas district (Dakshineswar),
+21,Second Hooghly Bridge,22.556944444444444,88.32777777777777,Kolkata to Howrah,
+22,Belur Math,22.6325,88.35638888888889,Howrah (Belur Math),
+23,Victoria Memorial,22.545,88.3425,Kolkata,
+24,Sunderbans delta of India,21.95,89.18333333333334,Southern 24 Parganas District,
+25,Digha,21.638333333333332,87.50972222222222,Purba Medinipur,
+26,Mandarmani,21.66611111111111,87.705,Purba Medinipur,
+27,St. Paul's Cathedral,22.54416666666667,88.34666666666666,Kolkata,
+28,Sundarbans National Park,21.838055555555556,88.88527777777779,Sunderbans delta of India,
+29,Mayapur,23.438333333333333,88.39277777777778,Nabadwip,
+30,Kumortuli,22.6,88.36138888888888,North Kolkata,
+31,Salt Lake Stadium,22.56888888888889,88.40916666666668,Bidhannagar,
+32,Howrah station,22.581666666666667,88.34222222222222,Howrah,
+33,Eden Gardens,22.564444444444444,88.34333333333333,Kolkata,
+0,Bomdila Monastery,27.270555555555553,92.41666666666667,,Monastery
+2,Tawang Monastery,27.585530555555554,91.85,,Monastery
+4,Urgelling Monastery,27.58833333333333,91.85,,Monastery
+5,Dibang Dam,28.3375,95.76666666666667,,Dam
+6,Ranganadi Dam,27.342777777777776,93.81666666666666,,Dam
+7,Subansiri Lower Dam,27.553611111111113,94.25,,Dam
+9,Itanagar,27.1,93.61666666666666,,Hill Stations
+10,Lumla,27.528888888888886,91.7,,Hill Stations
+11,"Palin, Arunachal Pradesh",27.69388888888889,93.61666666666666,,Hill Stations
+12,Tawang,27.58833333333333,91.85,,Hill Stations
+13,Ziro,27.56638888888889,93.81666666666666,,Hill Stations
+15,Sangestar Tso,27.716666666666665,91.81666666666666,,Lake
+16,Namdapha National Park,27.483333333333334,96.38333333333334,,Wildlife
+17,D'Ering Memorial Wildlife Sanctuary,27.93777777777778,95.43333333333334,,Wildlife
+18,Dibang Wildlife Sanctuary,29.046944444444446,95.78333333333333,,Wildlife
+19,Eaglenest Wildlife Sanctuary,27.1,92.4,,Wildlife
+20,Kameng Elephant Reserve,27.083333333333332,92.43333333333334,,Wildlife
+21,Kamlang Wildlife Sanctuary,27.666666666666668,96.43333333333334,,Wildlife
+22,Namdapha Tiger Reserve,27.483333333333334,96.38333333333334,,Wildlife
+23,Pakke Tiger Reserve,27.083333333333332,92.85833333333333,,Wildlife
+24,Talle Valley Wildlife Sanctuary,27.547777777777778,93.88333333333334,,Wildlife
+25,Dibang Wildlife Sanctuary,29.046944444444446,95.78333333333333,,Wildlife
+26,Dihang-Dibang Biosphere Reserve,27.983333333333334,94.5,,Wildlife
+27,Mouling National Park,28.583333333333332,94.86666666666666,,Wildlife
+28,Namdapha National Park,27.483333333333334,96.38333333333334,,Wildlife
+29,Sessa Orchid Sanctuary,27.2,92.5,,Wildlife
+30,Malinithan,27.656666666666666,94.7,,Temple
+31,Parshuram Kund,27.8775,96.35,,Temple
+35,"Golden Pagoda, Namsai",27.66722222222222,95.85,,Temple
+37,Nuranang Falls,27.589444444444442,91.98333333333333,,WaterFall
+0,Guwakuchi,26.4,91.41666666666667,,Archaeological Site
+1,Rajaduar,26.201944444444443,91.71666666666667,,Archaeological Site
+2,Charaideo,26.93305555555556,94.73333333333333,,Archaeological Site
+3,Dah Parvatiya,26.633333333333333,92.8,,Archaeological Site
+5,Madan Kamdev,26.31972222222222,91.73333333333333,,Archaeological Site
+6,Sri Surya Pahar,26.108611111111113,90.7,,Archaeological Site
+7,Charaideo,26.93305555555556,94.73333333333333,,Archaeological Site
+8,Dah Parvatiya,26.633333333333333,92.8,,Archaeological Site
+10,Madan Kamdev,26.31972222222222,91.73333333333333,,Archaeological Site
+11,Sri Surya Pahar,26.108611111111113,90.7,,Archaeological Site
+13,Garchuk Lachit Garh,26.105555555555558,91.7,,Archaeological Site
+14,Garh Doul,26.64611111111111,92.75,,Archaeological Site
+15,Kareng Ghar,26.936666666666667,94.73333333333333,,Archaeological Site
+16,Talatal Ghar,26.96638888888889,94.61666666666666,,Archaeological Site
+17,Chandubi Lake,25.879769444444445,91.41666666666667,,Lake
+18,Dighalipukhuri,26.1875,91.75,,Lake
+19,Dipor Bil,26.133333333333333,91.66666666666667,,Lake
+20,Dora Beel,26.08886111111111,91.45,,Lake
+21,Haflong Lake,25.16888888888889,93.0,,Lake
+22,Kapla Beel,26.337166666666665,91.21666666666667,,Lake
+23,Maguri Motapung Beel,27.576722222222223,95.38333333333334,,Lake
+24,Silsako Lake,26.15675,91.81666666666666,,Lake
+25,Son Beel,24.6875,92.43333333333334,,Lake
+26,Matiabag Palace,26.5,89.58333333333333,,Archaeological Site
+27,Matiabag Palace,26.5,89.58333333333333,,Archaeological Site
+28,Northbrook Gate,26.18777777777778,91.73333333333333,,Archaeological Site
+31,Assam State Museum,26.185277777777777,91.75,,Museum
+32,Srimanta Sankardev Kalakshetra,26.130555555555556,91.81666666666666,,Museum
+33,Deopahar,26.602222222222224,93.71666666666667,,Museum
+34,Garh Doul,26.64611111111111,92.75,,Archaeological Site
+35,Garhgaon,26.935555555555556,94.73333333333333,,Archaeological Site
+36,Kareng Ghar,26.936666666666667,94.73333333333333,,Archaeological Site
+37,Matiabag Palace,26.5,89.58333333333333,,Archaeological Site
+39,Talatal Ghar,26.96638888888889,94.61666666666666,,Archaeological Site
+40,Dibru-Saikhowa National Park,27.666666666666668,95.38333333333334,,Wildlife
+41,Kaziranga National Park,26.666666666666668,93.35,,Wildlife
+42,Manas National Park,26.716666666666665,90.93333333333334,,Wildlife
+43,Nameri National Park,27.01,92.78333333333333,,Wildlife
+44,Orang National Park,26.556944444444444,92.31666666666666,,Wildlife
+48,Bornadi Wildlife Sanctuary,26.805833333333332,91.73333333333333,,Wildlife
+49,Bura Chapori Wildlife Sanctuary,26.865833333333335,92.83333333333333,,Wildlife
+53,Garampani Wildlife Sanctuary,26.42,93.71666666666667,,Wildlife
+54,Hoollongapar Gibbon Sanctuary,26.716666666666665,94.38333333333334,,Wildlife
+55,Laokhowa Wildlife Sanctuary,26.506666666666668,92.7,,Wildlife
+57,Nambor Wildlife Sanctuary,26.39527777777778,93.86666666666666,,Wildlife
+58,Pani Dihing Wildlife Sanctuary,27.121944444444445,94.58333333333333,,Wildlife
+59,Pobitora Wildlife Sanctuary,26.241111111111113,92.05,,Wildlife
+60,Sonai Rupai Wildlife Sanctuary,26.894166666666667,92.33333333333333,,Wildlife
+61,"Bagheswari Temple, Bongaigaon",26.46944444444444,91.55,,Temple
+62,Basudev Devalaya,26.434083333333334,91.4,,Temple
+63,Bhairabi Temple,26.618055555555557,92.81666666666666,,Temple
+65,Billeswar Devalaya,26.381833333333333,91.35,,Temple
+66,Dah Parvatiya,26.633333333333333,92.8,,Temple
+67,Dhekiakhowa Bornamghar,26.466666666666665,94.18333333333334,,Temple
+68,Doul Govinda Temple,26.206666666666667,91.73333333333333,,Temple
+73,Madhab Than,26.2,92.63333333333334,,Temple
+74,Mahabhairav Temple,26.634166666666665,92.78333333333333,,Temple
+79,Sivasagar Sivadol,26.98888888888889,94.61666666666666,,Temple
+81,Thetha Gohain Than,26.332416666666667,91.48333333333333,,Temple
+82,Panbari Mosque,26.154999999999998,90.05,,Mosque
+83,Madhupur Satra,26.363611111111112,89.36666666666666,,Temple
+88,Basudev Than,27.361666666666668,94.55,,Temple
+94,Pahukata Namghar,26.849722222222223,92.56666666666666,,Temple
+95,Barsapara Stadium,26.145,91.73333333333333,,Sport
+96,Jorhat District Sports Association Ground,26.756666666666668,94.2,,Sport
+97,Jorhat Gymkhana Club,26.732499999999998,94.21666666666667,,Sport
+98,Jorhat Stadium,26.755,94.2,,Sport
+102,"Nehru Stadium, Guwahati",26.180555555555557,91.75,,Sport
+106,Satindra Mohan Dev Stadium,24.829755555555554,92.78333333333333,,Sport
+107,Indira Gandhi Athletic Stadium,26.115555555555556,91.75,,Sport
+108,Jorhat District Sports Association Ground,26.756666666666668,94.2,,Sport
+109,Jorhat Gymkhana Club,26.732499999999998,94.21666666666667,,Sport
+110,Jorhat Stadium,26.755,94.2,,Sport
+113,"Nehru Stadium, Guwahati",26.180555555555557,91.75,,Sport
+116,Satindra Mohan Dev Stadium,24.829755555555554,92.78333333333333,,Sport
+117,SSB Ranidanga Stadium,26.684166666666666,88.36666666666666,,Sport
+118,Barsapara Stadium,26.145,91.73333333333333,,Sport
+119,Indira Gandhi Athletic Stadium,26.115555555555556,91.75,,Sport
+121,"Nehru Stadium, Guwahati",26.180555555555557,91.75,,Sport
+1,Basarh,25.97722222222222,85.11666666666666,,Archaeological Site
+2,Bulandi Bagh,25.601944444444445,85.16666666666667,,Archaeological Site
+3,Chirand,25.74088411111111,84.81666666666666,,Archaeological Site
+6,Kesaria,26.334166666666665,84.85,,Archaeological Site
+7,Kesaria stupa,26.334166666666665,84.85,,Archaeological Site
+9,Lomas Rishi Cave,25.006444444444444,85.05,,Archaeological Site
+10,"Rohtas Fort, India",24.623333333333335,83.9,,Archaeological Site
+12,Munger Fort,25.380277777777778,86.45,,Archaeological Site
+14,Sitamarhi Cave,24.9,85.28333333333333,,Archaeological Site
+15,Son Bhandar Caves,25.029999999999998,85.41666666666667,,Archaeological Site
+16,Barabar Caves,25.005,85.05,,Archaeological Site
+17,Jivakarama vihara,24.99527777777778,85.43333333333334,,Archaeological Site
+18,Nalanda,25.136666666666667,85.43333333333334,,Archaeological Site
+19,Saptaparni Cave,25.00722222222222,85.4,,Archaeological Site
+20,Vaishali (ancient city),25.983333333333334,85.13333333333334,,Archaeological Site
+21,Vikramashila,25.32472222222222,87.28333333333333,,Archaeological Site
+22,Bakraur,24.698055555555555,85.0,,Archaeological Site
+23,Barabar Caves,25.005,85.05,,Archaeological Site
+24,Bodh Gaya,24.695,84.98333333333333,,Archaeological Site
+25,Buddha Samyak Darshan Museum and Memorial Stupa,25.983333333333334,85.13333333333334,,Archaeological Site
+26,Jivakarama vihara,24.99527777777778,85.43333333333334,,Archaeological Site
+27,Mahabodhi Temple,24.69611111111111,84.98333333333333,,Archaeological Site
+28,Mocharim,24.680555555555557,84.98333333333333,,Archaeological Site
+29,Nalanda,25.136666666666667,85.43333333333334,,Archaeological Site
+31,Rajgir,25.033333333333335,85.41666666666667,,Archaeological Site
+32,Saptaparni Cave,25.00722222222222,85.4,,Archaeological Site
+33,Vaishali (ancient city),25.983333333333334,85.13333333333334,,Archaeological Site
+34,Vikramashila,25.32472222222222,87.28333333333333,,Archaeological Site
+35,Barabar Caves,25.005,85.05,,Archaeological Site
+36,Lomas Rishi Cave,25.006444444444444,85.05,,Archaeological Site
+37,Saptaparni Cave,25.00722222222222,85.4,,Archaeological Site
+38,Sitamarhi Cave,24.9,85.28333333333333,,Archaeological Site
+39,Son Bhandar Caves,25.029999999999998,85.41666666666667,,Archaeological Site
+41,Indrapuri Barrage,24.836944444444445,84.13333333333334,,Dam
+43,Buxar Fort,25.560555555555556,83.96666666666667,,Archaeological Site
+44,Darbhanga Fort,26.160833333333333,85.88333333333334,,Archaeological Site
+45,Deo Fort,24.65888888888889,84.43333333333334,,Archaeological Site
+47,Munger Fort,25.380277777777778,86.45,,Archaeological Site
+48,"Rohtas Fort, India",24.623333333333335,83.9,,Archaeological Site
+50,Kargil Chowk,25.607991666666667,85.16666666666667,,Archaeological Site
+52,Sabhyata Dwar,25.621944444444445,85.13333333333334,,Archaeological Site
+53,Shaheed Smarak Patna,25.607991666666667,85.16666666666667,,Archaeological Site
+54,Tomb of Sher Shah Suri,24.948055555555555,84.0,,Archaeological Site
+56,Bihar Museum,25.608055555555556,85.11666666666666,,Museum
+57,"Gandhi Sangrahalaya, Patna",25.620555555555555,85.13333333333334,,Museum
+58,Indira Gandhi Planetarium,25.611111111111114,85.13333333333334,,Museum
+59,Jalan Museum,25.59861111111111,85.21666666666667,,Museum
+61,Patna Museum,25.6125,85.11666666666666,,Museum
+62,Rajendra Smriti Sangrahalaya,25.6325,85.1,,Museum
+63,Shrikrishna Science Centre,25.611111111111114,85.13333333333334,,Museum
+65,Buddha Samyak Darshan Museum and Memorial Stupa,25.983333333333334,85.13333333333334,,Museum
+66,Chandradhari Museum,26.151944444444442,85.9,,Museum
+73,Navlakha Palace,26.403055555555554,86.16666666666667,,Archaeological Site
+74,Bhimbandh Wildlife Sanctuary,25.233333333333334,86.28333333333333,,Wildlife
+75,Gautam Budha Wildlife Sanctuary,24.533333333333335,85.56666666666666,,Wildlife
+76,Kaimur Wildlife Sanctuary,25.05,83.5,,Wildlife
+77,Kanwar Lake Bird Sanctuary,25.610000000000003,86.13333333333334,,Wildlife
+78,Pant Wildlife Sanctuary,24.99277777777778,85.41666666666667,,Wildlife
+79,Udaypur Wildlife Sanctuary,26.815833333333334,84.41666666666667,,Wildlife
+81,Nagi Dam Bird Sanctuary,24.8175,86.4,,Wildlife
+82,Padri Ki Haveli,25.611111111111114,85.13333333333334,,Church
+83,"St Luke's Church, Patna, Bihar",25.636666666666667,85.03333333333333,,Church
+84,Gurdwara Bal Lila Maini Sangat,25.607991666666667,85.16666666666667,,Temple
+85,Gurdwara Gai Ghat,25.607991666666667,85.16666666666667,,Temple
+87,Gurdwara Handi Sahib,25.607991666666667,85.16666666666667,,Temple
+89,Aami Mandir,25.60527777777778,85.2,,Temple
+90,Ashokdham Temple,25.19325,86.06666666666666,,Temple
+91,Baba Garib Sthan Mandir,26.124444444444446,85.38333333333334,,Temple
+92,Baithakji Hajipur,25.666666666666668,85.21666666666667,,Temple
+93,Bari Sangat Bihar,25.666666666666668,85.21666666666667,,Temple
+94,Budhimai,25.759722222222223,85.18333333333334,,Temple
+96,Chandika Sthan,25.392444444444443,86.46666666666667,,Temple
+98,Deo Surya Mandir,24.65888888888889,84.43333333333334,,Temple
+99,ISKCON Temple Patna,25.608055555555556,85.13333333333334,,Temple
+101,Khudneshwar Asthan Morwa,25.811944444444446,85.68333333333334,,Temple
+102,Lal Keshwar Shiv Temple,25.7,85.2,,Temple
+103,Maa Tara Chandi Temple,24.95,84.03333333333333,,Temple
+104,Mahavir Mandir,25.60388888888889,85.13333333333334,,Temple
+105,Mangla Gauri Temple,24.77513888888889,85.0,,Temple
+106,Mittheswarnath Shiv Temple,26.169666666666668,85.9,,Temple
+107,Mundeshwari Temple,24.983333333333334,83.55,,Temple
+109,Pataleshwar Mandir,25.666666666666668,85.21666666666667,,Temple
+110,Patan Devi,25.60527777777778,85.2,,Temple
+111,Ramchaura Mandir,25.666666666666668,85.21666666666667,,Temple
+114,Shri Shri 1008 Siya Ram Bhakt Mahavir Balaji Temple Karharia,25.233333333333334,86.58333333333333,,Temple
+115,Shyama Mai Temple,26.1605,85.88333333333334,,Temple
+116,Sita Kund,26.586388888888887,85.46666666666667,,Temple
+120,Viraat Ramayan Mandir,26.365000000000002,84.86666666666666,,Temple
+121,Vishnudham Mandir,26.114472222222222,84.58333333333333,,Temple
+122,Vishnupad Mandir,24.610277777777778,85.0,,Temple
+124,Sher Shah Suri Mosque,25.611111111111114,85.13333333333334,,Mosque
+125,Mahabodhi Temple,24.69611111111111,84.98333333333333,,Temple
+126,Basawan Singh Indoor Stadium,25.695555555555554,85.2,,Sport
+131,Ramna Maidan,25.561666666666667,84.65,,Sport
+133,Didarganj Yakshi,25.571666666666665,85.25,,Archaeological Site
+134,Great Buddha (Bodh Gaya),24.683333333333334,85.03333333333333,,Archaeological Site
+135,Lohanipur torso,25.60638888888889,85.15,,Archaeological Site
+136,"Statue of Mahatma Gandhi, Gandhi Maidan",25.61861111111111,85.13333333333334,,Archaeological Site
+137,Statue of Vasupujya,25.25,87.0,,Archaeological Site
+139,Dhua Kund,24.95,84.03333333333333,,WaterFall
+140,Kakolat Falls,24.699722222222224,85.61666666666666,,WaterFall
+143,Manjhar Kund,24.95,84.03333333333333,,WaterFall
+0,"Malhar, Chhattisgarh",21.89388888888889,82.28333333333333,,Archaeological Site
+2,Kanger Ghati National Park,18.75,82.16666666666667,,Archaeological Site
+3,Kotumsar Cave,18.871666666666666,81.93333333333334,,Archaeological Site
+4,Dudhawa Dam,20.30777777777778,81.76666666666667,,Dam
+5,Gangrel Dam,20.62666666666667,81.55,,Dam
+7,Kherkatta Reservoir,20.154791666666664,80.63333333333334,,Dam
+8,Murrum Silli Dam,20.53805555555556,81.65,,Dam
+11,Chaiturgarh,22.510277777777777,82.26666666666667,,Archaeological Site
+12,Chirmiri,23.183333333333334,82.35,,Hill Station
+13,Mainpat,22.836944444444445,83.3,,Hill Station
+14,Indravati National Park,19.205,81.01666666666667,,Wildlife
+15,Kanger Ghati National Park,18.75,82.16666666666667,,Wildlife
+16,Achanakmar Wildlife Sanctuary,22.55027777777778,81.73333333333333,,Wildlife
+19,"Our Lady of the Rosary Cathedral, Jashpur",22.743333333333336,83.95,,Church
+20,Ashtabhuji Temple,21.95138888888889,83.01666666666667,,Temple
+21,Bambleshwari Temple,21.179444444444446,80.75,,Temple
+22,Barfani dham,21.092777777777776,81.0,,Temple
+23,Bhoramdeo Temple,22.116,81.13333333333334,,Temple
+24,Danteshwari Temple,18.9,81.35,,Temple
+30,"Mahadev Temple, Deobaloda",21.21861111111111,81.46666666666667,,Temple
+31,Mahamaya Temple,22.883055555555558,82.15,,Temple
+33,Arang Jain temples,21.19504722222222,81.96666666666667,,Temple
+34,"Jama Mosque, Bhilai",21.201416666666667,81.35,,Mosque
+35,Digvijay Stadium,21.094444444444445,81.01666666666667,,Sport
+36,Jayanti Stadium,21.179166666666667,81.33333333333333,,Sport
+42,Shaheed Veer Narayan Singh International Cricket Stadium,21.204166666666666,81.81666666666666,,Sport
+43,Amritdhara falls,23.333333333333332,82.31666666666666,,WaterFall
+44,Chitrakote Falls,19.20638888888889,81.7,,WaterFall
+45,Mandwa Waterfalls,18.990833333333335,81.78333333333333,,WaterFall
+46,Mendri Ghumar,19.165277777777778,81.65,,WaterFall
+47,Tamda Ghumar,19.172777777777778,81.61666666666666,,WaterFall
+48,Teerathgarh Falls,18.914166666666667,81.85,,WaterFall
+0,Agonda,15.040277777777778,73.98333333333333,,Beach
+1,Anjuna,15.583333333333334,73.73333333333333,,Beach
+2,Arambol,15.7,73.7,,Beach
+3,"Baga, Goa",15.55888888888889,73.75,,Beach
+4,Bambolim,15.45,73.85,,Beach
+5,Benaulim,15.25,73.91666666666667,,Beach
+6,Calangute,15.541666666666666,73.75,,Beach
+7,Candolim,15.516666666666667,73.75,,Beach
+8,Caranzalem,15.45,73.8,,Beach
+9,"Carmona, Goa",15.2,73.95,,Beach
+10,Cavelossim,15.173888888888888,73.93333333333334,,Beach
+11,Chapora Beach,15.60611111111111,73.73333333333333,,Beach
+12,Colva,15.276111111111112,73.91666666666667,,Beach
+13,Dona Paula,15.450555555555555,73.8,,Beach
+15,Majorda,15.316111111111113,73.91666666666667,,Beach
+16,Mandrem,15.658055555555556,73.7,,Beach
+17,"Miramar, Goa",15.483055555555556,73.8,,Beach
+18,Mobor,15.157222222222222,73.93333333333334,,Beach
+19,Morjim,15.629444444444445,73.73333333333333,,Beach
+20,Palolem,15.008888888888889,74.01666666666667,,Beach
+22,Sinquerim,15.502777777777778,73.76666666666667,,Beach
+23,Siridao,15.445,73.85,,Beach
+24,Vagator,15.6025,73.73333333333333,,Beach
+25,Varca,15.216666666666667,73.91666666666667,,Beach
+26,"Our Lady of the Immaculate Conception Church, Goa",15.498333333333333,73.81666666666666,,Church
+28,St. Cajetan Church,15.505694444444444,73.9,,Church
+33,Igreja de Nossa Senhora das Neves,15.308333333333334,74.0,,Church
+34,Rachol Seminary,15.31,74.0,,Church
+35,Fort Aguada,15.488055555555555,73.75,,Archaeological Site
+36,Fort Anjediva,14.786388888888888,74.11666666666666,,Archaeological Site
+37,Cabo de Rama,15.088055555555556,73.91666666666667,,Archaeological Site
+38,Chapora Fort,15.6,73.76666666666667,,Archaeological Site
+39,Colvale Fort (Goa),15.649166666666666,73.83333333333333,,Archaeological Site
+40,Corjuem Fort,15.596666666666668,73.88333333333334,,Archaeological Site
+41,Fort of São Tiago of Banastarim,15.49111111111111,73.95,,Archaeological Site
+42,Mormugão fort,15.399722222222222,73.78333333333333,,Archaeological Site
+43,Ponda Fort,15.412777777777778,73.98333333333333,,Archaeological Site
+45,Fort Tiracol,15.730555555555556,73.66666666666667,,Archaeological Site
+50,Shanta Durga Temple,15.395833333333332,73.96666666666667,,Temple
+51,Shantadurga Kalangutkarin Temple,15.634722222222221,73.91666666666667,,Temple
+52,Shree Betal temple,15.533333333333333,73.98333333333333,,Temple
+53,Sharvani Devasthan,15.638333333333334,73.9,,Temple
+55,"Mahadev Temple, Tambdi Surla",15.43888888888889,74.25,,Temple
+56,"Mallikarjuna Temple, Goa",15.022222222222224,74.06666666666666,,Temple
+58,Ramnathi,15.398888888888889,73.96666666666667,,Temple
+62,Mondaicaud Bhagavathi Temple,8.163333333333334,77.26666666666667,,Temple
+64,Archaeological Museum and Portrait Gallery,15.5025,73.9,,Museum
+65,Ashvek Vintage World,15.321111111111112,73.93333333333334,,Museum
+66,Goa Chitra Museum,15.265,73.93333333333334,,Museum
+67,Goa Science Centre,15.477500000000001,73.8,,Museum
+68,Goa State Museum,15.493055555555555,73.81666666666666,,Museum
+69,Museum of Christian Art,15.501388888888888,73.9,,Museum
+70,Naval Aviation Museum (India),15.374722222222223,73.83333333333333,,Museum
+71,Bhagwan Mahaveer Sanctuary and Mollem National Park,15.373611111111112,74.25,,Wildlife
+74,Mhadei Wildlife Sanctuary,15.571666666666667,74.16666666666667,,Wildlife
+76,Salim Ali Bird Sanctuary,15.514722222222222,73.85,,Wildlife
+77,Arlem Breweries Ground,15.295877777777777,73.96666666666667,,Sport
+78,Bhausaheb Bandodkar Ground,15.492072222222221,73.8,,Sport
+80,Fatorda Stadium,15.289166666666667,73.95,,Sport
+81,Goa Cricket Association Academy Ground,15.524066666666668,73.81666666666666,,Sport
+84,Duler Stadium,15.598611111111111,73.8,,Sport
+85,Fatorda Stadium,15.289166666666667,73.95,,Sport
+86,Tilak Maidan Stadium,15.400575,73.8,,Sport
+87,Dudhsagar Falls,15.312777777777779,74.3,,WaterFall
+1,Bet Dwarka,22.433333333333334,69.11666666666666,,Archaeological Site
+2,Bhagatrav,21.55,72.75,,Archaeological Site
+3,Champaner-Pavagadh Archaeological Park,22.483333333333334,73.53333333333333,,Archaeological Site
+4,Desalpar Gunthli,23.183333333333334,69.43333333333334,,Archaeological Site
+5,Dholavira,23.883333333333333,70.2,,Archaeological Site
+7,Galteshwar Temple,22.783333333333335,73.26666666666667,,Archaeological Site
+8,Ghumli,21.883333333333333,69.75,,Archaeological Site
+9,Gohilwad Timbo,21.6,71.2,,Archaeological Site
+10,Gola Dhoro,23.05,70.61666666666666,,Archaeological Site
+11,Hazira Maqbara,22.266666666666666,73.2,,Archaeological Site
+12,Kaleshwari Group of Monuments,23.316666666666666,73.58333333333333,,Archaeological Site
+13,Kerala-no-dhoro,21.35,72.05,,Archaeological Site
+14,Khirasara,23.1,69.01666666666667,,Archaeological Site
+15,Kuntasi,22.9,70.58333333333333,,Archaeological Site
+16,Magderu,22.283333333333335,69.05,,Archaeological Site
+18,Nagwada,23.333333333333332,71.68333333333334,,Archaeological Site
+20,Pabumath,23.616666666666667,70.51666666666667,,Archaeological Site
+21,Pindara Group of Temples,22.25,69.25,,Archaeological Site
+22,"Pindara, Gujarat",22.233333333333334,69.25,,Archaeological Site
+23,Piram Island,21.598333333333333,72.35333333333334,,Archaeological Site
+25,Rajgadhi Timbo,23.766666666666666,72.55,,Archaeological Site
+26,"Rangpur, Gujarat",22.433333333333334,71.91666666666667,,Archaeological Site
+27,Roda Group of Temples,23.65,73.06666666666666,,Archaeological Site
+28,Rojdi,22.25,70.66666666666667,,Archaeological Site
+30,Vejalka,22.25,71.85,,Archaeological Site
+31,Loteshwar,23.6,71.83333333333333,,Archaeological Site
+32,Lothal,22.516666666666666,72.23333333333333,,Archaeological Site
+33,Sarkhej,22.983333333333334,72.5,,Archaeological Site
+34,Sarkhej Roza,22.983333333333334,72.5,,Archaeological Site
+35,"Shikarpur, Gujarat",23.233333333333334,70.66666666666667,,Archaeological Site
+36,Surat Castle,21.183333333333334,72.81666666666666,,Archaeological Site
+37,Surkotada,23.883333333333333,70.2,,Archaeological Site
+38,Dumas Beach,21.066666666666666,72.7,,Beach
+39,Suvali Beach,21.15,72.63333333333334,,Beach
+40,Ahmedpur Mandvi Beach,20.733333333333334,71.01666666666667,,Beach
+41,Bet Dwarka,22.433333333333334,69.11666666666666,,Beach
+43,Gopnath Beach,21.2,72.1,,Beach
+44,Tithal Beach,20.583333333333332,72.88333333333334,,Beach
+45,Umargam,20.166666666666668,72.76666666666667,,Beach
+47,Bava Pyara Caves,21.516666666666666,70.46666666666667,,Archaeological Site
+48,Dhank Caves,21.833333333333332,70.08333333333333,,Archaeological Site
+50,Kadia Dungar Caves,21.666666666666668,73.26666666666667,,Archaeological Site
+51,Khambhalida Caves,21.766666666666666,70.7,,Archaeological Site
+52,Khapra Kodiya Caves,21.516666666666666,70.46666666666667,,Archaeological Site
+53,Sana Caves,20.95,71.2,,Archaeological Site
+54,Siyot Caves,23.766666666666666,68.86666666666666,,Archaeological Site
+55,Talaja Caves,21.35,72.01666666666667,,Archaeological Site
+57,Uparkot Caves,21.516666666666666,70.46666666666667,,Archaeological Site
+58,Champaner-Pavagadh Archaeological Park,22.483333333333334,73.53333333333333,,Archaeological Site
+59,Sakar Khan mausoleum,22.466666666666665,73.51666666666667,,Archaeological Site
+60,Bawaman Mosque,22.483333333333334,73.53333333333333,,Archaeological Site
+61,Champaner,22.483333333333334,73.53333333333333,,Archaeological Site
+62,"Jama Mosque, Champaner",22.483333333333334,73.53333333333333,,Archaeological Site
+63,"Kalika Mata Temple, Pavagadh",22.45,73.5,,Archaeological Site
+64,Kevada Mosque,22.483333333333334,73.53333333333333,,Archaeological Site
+65,Lila Gumbaj Ki Mosque,22.483333333333334,73.53333333333333,,Archaeological Site
+67,Nagina Mosque,22.483333333333334,73.53333333333333,,Archaeological Site
+68,Pavagadh Hill,22.466666666666665,73.5,,Archaeological Site
+69,Pavagadh ropeway,22.466666666666665,73.51666666666667,,Archaeological Site
+70,Bhadra Fort,23.016666666666666,72.56666666666666,,Archaeological Site
+71,Bhujia Fort,23.233333333333334,69.68333333333334,,Archaeological Site
+72,Kanthkot Fort,23.483333333333334,70.45,,Archaeological Site
+74,Manek Burj,23.016666666666666,72.56666666666666,,Archaeological Site
+75,Pavagadh,22.466666666666665,73.5,,Archaeological Site
+76,Roha Fort,23.2,69.26666666666667,,Archaeological Site
+77,Rupgadh Fort,20.95,73.58333333333333,,Archaeological Site
+78,Sindri Fort,24.05,69.05,,Archaeological Site
+81,Uparkot Fort,21.516666666666666,70.46666666666667,,Archaeological Site
+82,"Don, Dang",20.7,73.81666666666666,,Hill Station
+83,Pavagadh,22.466666666666665,73.5,,Hill Station
+84,Saputara,20.566666666666666,73.73333333333333,,Hill Station
+85,"Wilson Hills, Gujarat",20.5,73.35,,Hill Station
+86,Bet Dwarka,22.433333333333334,69.11666666666666,,Island
+87,Piram Island,21.598333333333333,72.35333333333334,,Island
+88,Pirotan,22.6,69.95,,Island
+89,Chandola Lake,22.983333333333334,72.58333333333333,,Lake
+90,Damodar Kund,21.516666666666666,70.48333333333333,,Lake
+91,Gopi Talav,21.183333333333334,72.81666666666666,,Lake
+92,Hamirsar Lake,23.25,69.65,,Lake
+93,Kankaria Lake,23.0,72.6,,Lake
+95,Nagalpur Lake,23.566666666666666,72.35,,Lake
+96,Nal Sarovar,22.783333333333335,72.01666666666667,,Lake
+97,Nal Sarovar Bird Sanctuary,22.783333333333335,72.01666666666667,,Lake
+98,Narayan Sarovar,23.666666666666668,68.53333333333333,,Lake
+99,Para Lake,23.6,72.38333333333334,,Lake
+100,Shakoor Lake,24.25,69.06666666666666,,Lake
+101,Sursagar Lake,22.3,73.2,,Lake
+102,Thol Lake,23.375,72.625,,Lake
+103,Vastrapur Lake,23.033333333333335,72.51666666666667,,Lake
+104,Ahmad Shah's Tomb,23.016666666666666,72.58333333333333,,Archaeological Site
+105,Azam and Muazzam Khan's Tomb,23.0,72.55,,Archaeological Site
+106,Dariya Khan's Tomb,23.05,72.58333333333333,,Archaeological Site
+107,Mir Abu Turab's Tomb,23.0,72.56666666666666,,Archaeological Site
+108,Rani no Hajiro,23.016666666666666,72.58333333333333,,Archaeological Site
+109,Wajihuddin's Tomb,23.016666666666666,72.56666666666666,,Archaeological Site
+110,Ahmad Shah's Tomb,23.016666666666666,72.58333333333333,,Archaeological Site
+111,Hazira Maqbara,22.266666666666666,73.2,,Archaeological Site
+112,Mahabat Maqbara complex,21.516666666666666,70.45,,Archaeological Site
+113,Sarkhej Roza,22.983333333333334,72.5,,Archaeological Site
+115,Tomb of Sikandar Shah,22.5,73.46666666666667,,Archaeological Site
+116,Achut Bibi's Mosque,23.05,72.56666666666666,,Archaeological Site
+117,Adalaj Stepwell,23.166666666666668,72.56666666666666,,Archaeological Site
+118,Ahmad Shah's Tomb,23.016666666666666,72.58333333333333,,Archaeological Site
+119,Ahmed Shah's Mosque,23.016666666666666,72.56666666666666,,Archaeological Site
+120,Azam and Muazzam Khan's Tomb,23.0,72.55,,Archaeological Site
+121,Baba Lului's Mosque,23.0,72.56666666666666,,Archaeological Site
+122,Bawaman Mosque,22.483333333333334,73.53333333333333,,Archaeological Site
+123,Borsad Stepwell,22.4,72.9,,Archaeological Site
+124,Dada Harir Stepwell,23.033333333333335,72.6,,Archaeological Site
+125,Dariya Khan's Tomb,23.05,72.58333333333333,,Archaeological Site
+126,Dastur Khan's Mosque,23.016666666666666,72.58333333333333,,Archaeological Site
+127,Dhank Caves,21.833333333333332,70.08333333333333,,Archaeological Site
+128,Dholavira,23.883333333333333,70.2,,Archaeological Site
+129,Dwarkadhish Temple,22.233333333333334,68.96666666666667,,Archaeological Site
+130,Galteshwar Temple,22.783333333333335,73.26666666666667,,Archaeological Site
+131,Gohilwad Timbo,21.6,71.2,,Archaeological Site
+132,Gop Temple,22.016666666666666,69.91666666666667,,Archaeological Site
+133,Haibat Khan's Mosque,23.0,72.58333333333333,,Archaeological Site
+134,Hazira Maqbara,22.266666666666666,73.2,,Archaeological Site
+135,"Jama Mosque, Ahmedabad",23.016666666666666,72.58333333333333,,Archaeological Site
+137,"Jami Mosque, Khambhat",22.3,72.61666666666666,,Archaeological Site
+138,Jasmalnathji Mahadev Temple,23.583333333333332,72.58333333333333,,Archaeological Site
+140,"Kirti Mandir, Porbandar",21.633333333333333,69.6,,Archaeological Site
+141,Lothal,22.516666666666666,72.23333333333333,,Archaeological Site
+142,Magderu,22.283333333333335,69.05,,Archaeological Site
+143,Malik Alam's Mosque,23.0,72.58333333333333,,Archaeological Site
+144,Malik Isan's Mosque,22.966666666666665,72.58333333333333,,Archaeological Site
+145,Mata Bhavani's Stepwell,23.033333333333335,72.6,,Archaeological Site
+146,Muhafiz Khan Mosque,23.016666666666666,72.58333333333333,,Archaeological Site
+147,Pindara Group of Temples,22.25,69.25,,Archaeological Site
+148,Qutbuddin Mosque,23.033333333333335,72.58333333333333,,Archaeological Site
+149,Qutub-e-Alam's Mosque,22.95,72.6,,Archaeological Site
+151,"Rangpur, Gujarat",22.433333333333334,71.91666666666667,,Archaeological Site
+152,Rani ki vav,23.85,72.1,,Archaeological Site
+153,Rani no Hajiro,23.016666666666666,72.58333333333333,,Archaeological Site
+154,Rani Rupamati's Mosque,23.016666666666666,72.58333333333333,,Archaeological Site
+155,Rani Sipri's Mosque,23.016666666666666,72.58333333333333,,Archaeological Site
+156,Roda Group of Temples,23.65,73.06666666666666,,Archaeological Site
+157,Rudra Mahalaya Temple,23.916666666666668,72.36666666666666,,Archaeological Site
+159,Sahastralinga Talav,23.85,72.08333333333333,,Archaeological Site
+160,Saiyad Usman Mosque,23.033333333333335,72.56666666666666,,Archaeological Site
+161,Sardar Khan's Roza,23.0,72.58333333333333,,Archaeological Site
+162,Sarkhej Roza,22.983333333333334,72.5,,Archaeological Site
+163,Shah-e-Alam's Roza,22.983333333333334,72.58333333333333,,Archaeological Site
+164,Shahpur Mosque,23.033333333333335,72.56666666666666,,Archaeological Site
+165,"Shiva Temple, Bavka",22.75,74.2,,Archaeological Site
+166,Sidi Bashir Mosque,23.016666666666666,72.6,,Archaeological Site
+167,Sidi Saiyyed Mosque,23.016666666666666,72.56666666666666,,Archaeological Site
+168,"Sun Temple, Modhera",23.583333333333332,72.11666666666666,,Archaeological Site
+169,Surkotada,23.883333333333333,70.2,,Archaeological Site
+170,Talaja Caves,21.35,72.01666666666667,,Archaeological Site
+171,Teen Darwaza,23.016666666666666,72.58333333333333,,Archaeological Site
+172,Tomb of Sikandar Shah,22.5,73.46666666666667,,Archaeological Site
+173,Uparkot Caves,21.516666666666666,70.46666666666667,,Archaeological Site
+174,Aina Mahal,23.25,69.66666666666667,,Museum
+175,Baroda Museum & Picture Gallery,22.3,73.18333333333334,,Museum
+176,Calico Museum of Textiles,23.05,72.58333333333333,,Museum
+177,Kaba Gandhi No Delo,22.283333333333335,70.8,,Museum
+178,"Kirti Mandir, Porbandar",21.633333333333333,69.6,,Museum
+179,Kutch Museum,23.233333333333334,69.65,,Museum
+180,Maharaja Fateh Singh Museum,22.283333333333335,73.18333333333334,,Museum
+181,Prag Mahal,23.25,69.66666666666667,,Museum
+182,Sabarmati Ashram,23.05,72.56666666666666,,Museum
+183,Saraswati Mandir,21.183333333333334,72.81666666666666,,Museum
+184,Sardar Patel Museum,21.166666666666668,72.78333333333333,,Museum
+186,Shristhal Sangrahalay,23.9,72.35,,Museum
+187,Watson Museum,22.3,70.8,,Museum
+188,Aina Mahal,23.25,69.66666666666667,,Archaeological Site
+189,Balaram Palace,24.266666666666666,72.5,,Archaeological Site
+191,"Huzoor Palace, Porbandar",21.616666666666667,69.6,,Archaeological Site
+192,"Laxmi Vilas Palace, Vadodara",22.283333333333335,73.18333333333334,,Archaeological Site
+193,Makarpura Palace,22.233333333333334,73.18333333333334,,Archaeological Site
+194,Naulakha Palace,26.4,86.16666666666667,,Archaeological Site
+195,Nazarbaug Palace,22.3,73.2,,Archaeological Site
+196,Prag Mahal,23.25,69.66666666666667,,Archaeological Site
+197,"Rajmahal, Mehsana",23.6,72.38333333333334,,Archaeological Site
+199,Sardar Vallabhbhai Patel National Memorial,23.05,72.58333333333333,,Archaeological Site
+201,"Blackbuck National Park, Velavadar",22.033333333333335,72.05,,Wildlife
+202,Gir National Park,21.133333333333333,70.78333333333333,,Wildlife
+203,"Marine National Park, Gulf of Kutch",22.466666666666665,69.61666666666666,,Wildlife
+204,Vansda National Park,20.733333333333334,73.46666666666667,,Wildlife
+205,Banni Grasslands Reserve,23.55,69.26666666666667,,Wildlife
+206,Chari-Dhand Wetland Conservation Reserve,23.55,69.4,,Wildlife
+207,Indian Wild Ass Sanctuary,23.15,71.38333333333334,,Wildlife
+208,Kutch Bustard Sanctuary,23.216666666666665,68.7,,Wildlife
+210,Narayan Sarovar Sanctuary,23.616666666666667,68.68333333333334,,Wildlife
+212,Barda Wildlife Sanctuary,21.85,69.68333333333334,,Wildlife
+215,Indian Wild Ass Sanctuary,23.15,71.38333333333334,,Wildlife
+216,Jambughoda Wildlife Sanctuary,22.366666666666667,73.71666666666667,,Wildlife
+217,Jessore Sloth Bear Sanctuary,24.2,72.3,,Wildlife
+218,Kutch Bustard Sanctuary,23.216666666666665,68.7,,Wildlife
+221,Nal Sarovar Bird Sanctuary,22.783333333333335,72.01666666666667,,Wildlife
+222,Narayan Sarovar Sanctuary,23.616666666666667,68.68333333333334,,Wildlife
+223,Purna Wildlife Sanctuary,20.916666666666668,73.7,,Wildlife
+224,Ratan Mahal Wildlife Sanctuary,22.833333333333332,74.25,,Wildlife
+225,Shoolpaneshwar Wildlife Sanctuary,21.75,73.78333333333333,,Wildlife
+226,Thol Wildlife Sanctuary,23.375,72.625,,Wildlife
+227,The Arena (Ahmedabad),23.0,72.58333333333333,,Sport
+229,Gujarat College Ground,23.016666666666666,72.55,,Sport
+231,Sardar Patel Stadium,23.083333333333332,72.58333333333333,,Sport
+233,Bilakhiya Stadium,20.4,72.9,,Sport
+234,CB Patel International Cricket Stadium,21.15,72.78333333333333,,Sport
+237,Gujarat College Ground,23.016666666666666,72.55,,Sport
+240,IPCL Sports Complex Ground,22.333333333333332,73.13333333333334,,Sport
+242,Lalabhai Contractor Stadium,21.15,72.76666666666667,,Sport
+243,Moti Bagh Stadium,22.283333333333335,73.18333333333334,,Sport
+245,Sardar Patel Stadium,23.083333333333332,72.58333333333333,,Sport
+247,"Sardar Vallabhbhai Patel Stadium, Valsad",20.6,72.91666666666667,,Sport
+250,CB Patel International Cricket Stadium,21.15,72.78333333333333,,Sport
+251,Lalabhai Contractor Stadium,21.15,72.76666666666667,,Sport
+256,Duleep Cricket School,21.633333333333333,69.6,,Sport
+258,Madhavrao Scindia Cricket Ground,22.3,70.78333333333333,,Sport
+259,Natwarsinhji Cricket Club Ground,21.633333333333333,69.61666666666666,,Sport
+261,Ninai Falls,21.666666666666668,73.81666666666666,,WaterFall
+262,Adalaj Stepwell,23.166666666666668,72.56666666666666,,Archaeological Site
+263,Amritavarshini Vav,23.016666666666666,72.58333333333333,,Archaeological Site
+264,Borsad Stepwell,22.4,72.9,,Archaeological Site
+265,Boter Kothani Vav,23.6,72.4,,Archaeological Site
+266,Dada Harir Stepwell,23.033333333333335,72.6,,Archaeological Site
+267,Jethabhai's Stepwell,22.966666666666665,72.6,,Archaeological Site
+268,Kaleshwari Group of Monuments,23.316666666666666,73.58333333333333,,Archaeological Site
+269,Madhavav,22.7,71.66666666666667,,Archaeological Site
+270,Mata Bhavani's Stepwell,23.033333333333335,72.6,,Archaeological Site
+271,Mithi Vav,24.166666666666668,72.41666666666667,,Archaeological Site
+272,Navghan Kuvo,21.516666666666666,70.46666666666667,,Archaeological Site
+273,Ra Khengar Vav,21.483333333333334,70.38333333333334,,Archaeological Site
+274,Rani ki vav,23.85,72.1,,Archaeological Site
+275,Step-well of Ambapur,23.15,72.6,,Archaeological Site
